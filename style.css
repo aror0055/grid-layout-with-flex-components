@@ -8,7 +8,7 @@ body {
 
   display: grid;
   grid-template-columns: 440px 440px;
-  grid-template-rows: 320px 320px;
+  grid-template-rows: 340px 340px;
   gap: 1rem;
 }
 
